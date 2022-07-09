@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sahne/Menu.unity
+    guid: 21ea826cd8911784e8d6d8cc320a8fd1
+  - enabled: 1
+    path: Assets/Sahne/Level.unity
+    guid: 7f12a50981477d74f9ffd8f17bf8bb90
+  - enabled: 1
+    path: Assets/Sahne/Oyun.unity
+    guid: 8a17236f12252c14099069e318b9e1c5
+  - enabled: 1
+    path: Assets/Sahne/Oyun2.unity
+    guid: eb5c1dab410ff6840921409dc8a1d388
+  - enabled: 1
+    path: Assets/Sahne/Oyun3.unity
+    guid: 68f8f175e123c624aa4c5c162becc251
+  m_configObjects: {}
